@@ -1,0 +1,34 @@
+Please put the datasets here.
+
+```shell
+|--datasets
+    |--cave_1024_28
+        |--scene1.mat
+        |--scene2.mat
+        ：  
+        |--scene205.mat
+    |--CAVE_512_28
+        |--scene1.mat
+        |--scene2.mat
+        ：  
+        |--scene30.mat
+    |--KAIST_CVPR2021  
+        |--1.mat
+        |--2.mat
+        ： 
+        |--30.mat
+    |--TSA_simu_data  
+        |--mask.mat   
+        |--Truth
+            |--scene01.mat
+            |--scene02.mat
+            ： 
+            |--scene10.mat
+    |--TSA_real_data  
+        |--mask.mat   
+        |--Measurements
+            |--scene1.mat
+            |--scene2.mat
+            ： 
+            |--scene5.mat
+```
