@@ -112,7 +112,7 @@ python test.py --template dsmt --outf ./exp/dsmt/ --method dsmt --pretrained_mod
 - The reconstrcuted HSI will be output into `DSMT-main/real/test/exp/`  
 
 
-###　Visualization	
+### Visualization
 
 - Put the reconstruted HSI in `--pretrained_model_path ./checkpoints/dsmt.pth/visualization/real_results/results` and rename it as method.mat, e.g., mst_plus_plus.mat.
 
@@ -126,6 +126,8 @@ If this code helps you, please consider citing our work:
   author={Luo, Fulin and Chen, Xi and Guo, Tan and Gong, Xiuwen and Zhang, Lefei and Zhu, Ce},
   journal={IEEE Transactions on Image Processing},
   year={2025},
-  publisher={IEEE}
+  volume={34},
+  number={},
+  pages={2473-2486}
 }
 ```
